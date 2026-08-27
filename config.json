@@ -1,0 +1,8 @@
+{
+    "apiKey": "admin12345",
+    "baseUrl": "https://api.worldnewsapi.com",
+    "resultsPerPage": 12,
+    "defaultCountry": "id",
+    "defaultLanguage": "id",
+    "daysBack": 7
+}
